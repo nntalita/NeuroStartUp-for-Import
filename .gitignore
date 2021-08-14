@@ -1,0 +1,6 @@
+Thumbs.db
+tmp/
+*.DS_Store
+*_old
+*_backup
+NeuroStartUp.png_backup
